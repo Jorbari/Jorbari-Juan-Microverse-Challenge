@@ -6,6 +6,8 @@
 
 #title{
     font-size: 4rem;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #img-div{
     overflow: hidden;
@@ -26,6 +28,8 @@
 #tribute-info{
     font-size: 1.4rem;
     margin-top: 1rem;
+    color: grey;
+    font-family: sans-serif;
 }
 #tribute-link{
     margin-top: 1rem;
