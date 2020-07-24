@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 10px;
+}
+
+#title{
+    font-size: 4rem;
+}
+#img-div{
+    overflow: hidden;
+}
+#img-caption{
+    text-align: center;
+}
+#image{
+    max-width: 100%;
+    display: block;
+}
+#main{
+    padding-top: 2rem;
+    margin: auto;
+    width: 90rem;
+    text-align: center;
+}
+#tribute-info{
+    font-size: 1.4rem;
+    margin-top: 1rem;
+}
+#tribute-link{
+    margin-top: 1rem;
+    font-size: 1.6rem;
+}
+#img-caption{
+    width: 100%;
+    font-size: 1.5rem;
+}
